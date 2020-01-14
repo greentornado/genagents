@@ -1,3 +1,5 @@
+Inspired by `https://github.com/zedeus/nitter/blob/master/src/agents.nim`, so I made a golang version.
+
 **Install**
 
 `go get "github.com/greentornado/genagents"`
