@@ -14,3 +14,6 @@ Inspired by `https://github.com/zedeus/nitter/blob/master/src/agents.nim`, so I 
 
 `Mozilla/5.0 (Windows 6.1; Win64; x64; Trident/5.0) Gecko/20100101 Firefox/61.0.1`
 ....
+
+
+a Python port also available in `python` folder
